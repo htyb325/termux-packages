@@ -138,3 +138,4 @@ jobs:
             -X POST \
             --data '{"ref":"master"}' \
             "https://api.github.com/repos/termux/repology-metadata/actions/workflows/repology_metadata.yml/dispatches"
+tj
